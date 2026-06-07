@@ -3,3 +3,9 @@ A Deep-dive into ride cancellations to uncover operational and behavioral factor
 
 ## Problem Statement
 **Increase Fulfillment across the Platform**
+
+## Table of Contents 
+- Exploration of data
+- Data Cleaning
+- Inisghts
+- Recommendations
