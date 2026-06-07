@@ -94,6 +94,19 @@ Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Custome
 
   
 ## Recomendations
+
+- **To Immediately address the supply issue**, we have norrowed down to the clusters/areas where 80% of the cancelled rides have happened because of non-assignment of a captain/driver, which points to the Supply Issue, therefore **Increase the Supply of Captains/drivers in these brighter clusters first via 3PL vendors** and then move onto other clusters.
+<img width="1624" height="998" alt="i8" src="https://github.com/user-attachments/assets/bc08328f-847d-484d-bf79-259081a4d6b4" />
+
+- Also, as we noticed, for the rides accepted by captains/drivers, the avg ETA and the avg time taken to cancellation clearly shows that during peak hours cimmute, the customers want the service in less time/quickly, therefore to reduce the ETA and increase the cancellation time, Enable a walk and save feature, where customers can walk to the nearest location where the captain could reach the customer in less time
+(source : Rapido App)
+<img width="311" height="669" alt="Screenshot 2026-06-07 at 3 17 25 PM" src="https://github.com/user-attachments/assets/068bf320-c5cd-4fb9-a81a-3ebf4c161c04" />
+
+
+
+
+
+
 ## Caveats
 
 
