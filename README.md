@@ -25,19 +25,14 @@ These are the key metrics which would drive fulfillment of rides
 
 # Executive Summary: Why Are Rides Being Cancelled?
 
-## Business Problem
-
-The primary objective of this analysis was to understand what is preventing rides from being successfully fulfilled and identify opportunities to improve the fulfillment rate.
-
 ## What We Found
 
 Our analysis shows that ride cancellations are not primarily driven by customer behavior or driver preferences. Instead, the underlying issue is a **supply-demand imbalance**, especially during peak commuting hours.
 
 When cancellation trends were analyzed across different times of the day, a clear pattern emerged:
 
-- Ride cancellations peak during office commute hours.
+- Ride cancellations peak during office commute hours ( 7 AM to 9 AM ).
 - Cancellations increase sharply again after 7 PM.
-- These periods coincide with the highest demand for rides.
 
 To understand what was causing these cancellations, we examined the cancellation reasons.
 
@@ -73,16 +68,12 @@ This creates a chain reaction:
 
 Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Customer Cancellations → Lower Fulfillment Rate
 
-## Key Business Takeaway
 
-The fulfillment challenge is fundamentally a **supply-side problem**, not a demand-side problem.
-
-To improve fulfillment rates, the business should focus on increasing driver availability during peak commute hours, reducing ETA, and minimizing the number of rides that remain unassigned.
-
-Addressing the supply gap during these critical periods represents the largest opportunity to reduce cancellations and improve the overall customer experience.
 
 ## Insights
-- ### Insight 1
+- ### Insight 1 Cancellations Are Primarily Supply-Driven
+  <img width="2188" height="1222" alt="i1" src="https://github.com/user-attachments/assets/29dd3c96-cf40-4357-9447-15d31bfa4f40" />
+
 - ### Inisght 2
 - ### Insight 3
 - ### Insight 4
