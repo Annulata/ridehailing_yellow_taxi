@@ -24,6 +24,11 @@ These are the key metrics which would drive fulfillment of rides
   - An upward trend decreases the fulfillment 🔻
 
 ## Insights
+- ### Insight 1
+- ### Inisght 2
+- ### Insight 3
+- ### Insight 4
+  
 ## Recomendations
 ## Caveats
 
