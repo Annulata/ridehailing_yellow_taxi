@@ -103,11 +103,12 @@ Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Custome
 <img width="311" height="669" alt="Screenshot 2026-06-07 at 3 17 25 PM" src="https://github.com/user-attachments/assets/068bf320-c5cd-4fb9-a81a-3ebf4c161c04" />
 
 
+## Impact 
 
 
 
 
-## Caveats
+
 
 
 
