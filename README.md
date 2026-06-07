@@ -71,8 +71,9 @@ Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Custome
 
 
 ## Insights
-- ### Insight 1 Cancellations Are Primarily Supply-Driven
+- ### Insight 1 :-  Cancellations Are Primarily Supply-Driven
   <img width="2188" height="1222" alt="i1" src="https://github.com/user-attachments/assets/29dd3c96-cf40-4357-9447-15d31bfa4f40" />
+  Majority of the cancellations were driven by the non-assignment of captains/drivers
 
 - ### Inisght 2
 - ### Insight 3
