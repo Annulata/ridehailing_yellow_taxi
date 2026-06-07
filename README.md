@@ -75,7 +75,10 @@ Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Custome
   <img width="2188" height="1222" alt="i1" src="https://github.com/user-attachments/assets/29dd3c96-cf40-4357-9447-15d31bfa4f40" />
   Majority of the cancellations were driven by the non-assignment of captains/drivers
 
-- ### Inisght 2
+- ### Inisght 2 :- Peak Cancellations Occur During Office Hours and are again primarily Supply-Driven
+  <img width="1624" height="1222" alt="i2" src="https://github.com/user-attachments/assets/05a0e3eb-a59a-4760-bf30-b8f665527252" />
+  Cancellation volume peaks during commute hours and also rises sharply after 7 PM, aligning with periods of highest ride demand.
+
 - ### Insight 3
 - ### Insight 4
   
