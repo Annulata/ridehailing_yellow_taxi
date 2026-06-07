@@ -6,7 +6,7 @@ Frequent ride cancellations were leading to revenue loss, reduced customer trust
 **Increase Fulfillment across the Platform**
 
 ## Table of Contents 
-- Exploration of data
+- [North Star Metrics](#north-star-metrics)
 - Data Cleaning
 - Inisghts
 - Recommendations
@@ -105,7 +105,7 @@ Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Custome
 
 ## Impact 
 
-
+By increasing driver supply and Walk & save feature during peak demand periods, the **platform could potentially recover at least 20% of total cancelled rides in peak hours i.e., 1600,that lead to 320 rides per day that are currently lost to cancellations. This translates to approximately 9,600 additional fulfilled rides per month and an estimated ₹9.6 Lakhs in monthly revenue opportunity (assuming ₹100 average revenue per ride). On an annual basis, this represents over 115,000 recovered rides and approximately ₹1.15 Crores in additional revenue, while also improving fulfillment rates and customer satisfaction**.
 
 
 
