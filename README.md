@@ -20,6 +20,9 @@ These are the key metrics which would drive fulfillment of rides
 - **Average Time to Cancellation ( per hour )** :- It is the time taken by the customer to cancel the ride.
 
 ### Outcome of North Star Metrics
+- For Average Time to Cancellation ( per hour ),
+  - A downward trend decreases the fulfillment 🔻
+  - An upward trend increases the fulfillment ⬆️
 - For all the metrics above,
   - A downward trend increases the fulfillment ⬆️
   - An upward trend decreases the fulfillment 🔻
