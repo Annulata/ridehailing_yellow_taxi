@@ -12,8 +12,13 @@ Frequent ride cancellations were leading to revenue loss, reduced customer trust
 - Recommendations
 
 ## North Star Metrics
-The metrics which would lead to increase in fulfillment are as follows :- 
-- rides_cancelled_client :- number of rides cancelled by the client before or after the captain/driver assignment.
+These are the key metrics which would drive fulfillment of rides
+- rides_cancelled_client :-
+  number of rides cancelled by the client before or after the captain/driver assignment.
+  ### A downward trend shows fulfillment of rides going up ⬆️ 
+  ### An upward trend shows fulfillment of rides going down🔻
 - rides_cancelled_system :- number of rides cancelled by the system due to tech or anyother issue.
 - Average ETA ( per hour ) :- It is the time expected by the customer to receive a ride. 
 - Average Time to Cancellation ( per hour ) :- It is the time taken by the customer to cancel the ride.
+
+
