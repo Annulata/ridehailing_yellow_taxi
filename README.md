@@ -8,7 +8,7 @@ Frequent ride cancellations were leading to revenue loss, reduced customer trust
 ## Table of Contents 
 - [North Star Metrics](#north-star-metrics)
 - [Executive Summary](#executive-summary-why-are-rides-being-cancelled)
-- [Inisghts](#executive-summary-why-are-rides-being-cancelled)
+- [Inisghts](#insights)
 - [Recommendations](#recomendations)
 - [Impact](#impact)
 
