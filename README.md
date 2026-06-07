@@ -84,8 +84,14 @@ Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Custome
    If we **segment cancelled rides per hour** by type of cancelled rides, we find that the during the peak commute hours, majority of the rides were cancelled was again Supply-driven
  
 
-- ### Insight 3
-- ### Insight 4
+- ### Insight 3 :- Higher ETA Leads to More Cancellations
+  <img width="1624" height="914" alt="i4" src="https://github.com/user-attachments/assets/264ff735-8af2-451d-afa2-492cdbdd6fa4" />
+  During office hours, longer ETAs increase cancellation likelihood as customers are less willing to wait when commuting.
+
+- ### Insight 4 :- Customer Patience Varies by Time of Day
+  <img width="1624" height="976" alt="i5" src="https://github.com/user-attachments/assets/ee81618c-5070-444d-a413-73c228cc7297" />
+  Commuters prioritize speed during office hours, whereas during late evenings and early mornings commuters show greater tolerance for waiting.
+
   
 ## Recomendations
 ## Caveats
