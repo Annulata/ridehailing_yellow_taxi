@@ -79,6 +79,10 @@ Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Custome
   <img width="1624" height="1222" alt="i2" src="https://github.com/user-attachments/assets/05a0e3eb-a59a-4760-bf30-b8f665527252" />
   Cancellation volume peaks during commute hours and also rises sharply after 7 PM, aligning with periods of highest ride demand.
 
+  If we **segment cancelled rides per hour** by type of cancelled rides, we find that the during the peak commute hours, majority of the rides were cancelled was again Supply-driven
+  <img width="1624" height="976" alt="i3" src="https://github.com/user-attachments/assets/eb60f641-c31e-4af8-9989-3a7fa8fce212" />
+ 
+
 - ### Insight 3
 - ### Insight 4
   
