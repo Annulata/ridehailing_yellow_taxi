@@ -90,7 +90,7 @@ Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Custome
 
 - ### Insight 4 :- Customer Patience Varies by Time of Day
   <img width="1624" height="976" alt="i5" src="https://github.com/user-attachments/assets/ee81618c-5070-444d-a413-73c228cc7297" />
-  Commuters prioritize speed during office hours, whereas during late evenings and early mornings commuters show greater tolerance for waiting.
+  Customers would want to get a ride in the peak hours, and would either wait for the ride to be confirmed or move onto another app. If a captain/driver has been assigned Commuters prioritize speed during office hours, whereas during late evenings and early mornings commuters show greater tolerance for waiting.
 
   
 ## Recomendations
