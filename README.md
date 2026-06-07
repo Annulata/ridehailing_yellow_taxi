@@ -23,6 +23,64 @@ These are the key metrics which would drive fulfillment of rides
   - A downward trend increases the fulfillment ⬆️
   - An upward trend decreases the fulfillment 🔻
 
+# Executive Summary: Why Are Rides Being Cancelled?
+
+## Business Problem
+
+The primary objective of this analysis was to understand what is preventing rides from being successfully fulfilled and identify opportunities to improve the fulfillment rate.
+
+## What We Found
+
+Our analysis shows that ride cancellations are not primarily driven by customer behavior or driver preferences. Instead, the underlying issue is a **supply-demand imbalance**, especially during peak commuting hours.
+
+When cancellation trends were analyzed across different times of the day, a clear pattern emerged:
+
+- Ride cancellations peak during office commute hours.
+- Cancellations increase sharply again after 7 PM.
+- These periods coincide with the highest demand for rides.
+
+To understand what was causing these cancellations, we examined the cancellation reasons.
+
+The majority of cancelled rides were found to be **unassigned rides**, meaning customers never received a driver. This suggests that customers are not cancelling because they no longer need the ride; rather, the platform is unable to match demand with sufficient driver supply.
+
+## The Role of ETA
+
+Next, we analyzed the Estimated Time of Arrival (ETA) across different time periods.
+
+During office hours, the average ETA is significantly higher compared to other parts of the day. This indicates that available drivers are stretched thin during peak demand periods.
+
+This behavior aligns with customer expectations. During commute hours, customers are highly time-sensitive and need to reach their workplaces or destinations on time. As waiting times increase, customers become less willing to wait and are more likely to cancel their rides.
+
+To validate this further, we examined rides that were successfully assigned to drivers.
+
+Interestingly, rides with assigned drivers during office hours had the **lowest average ETA**. This indicates that customers are willing to complete their rides when a driver is assigned quickly. However, when ETA increases due to limited driver availability, cancellations rise sharply.
+
+## Customer Behavior Changes Outside Office Hours
+
+The analysis also revealed a shift in customer behavior during late evenings and early mornings.
+
+During these periods, customers appear more tolerant of longer wait times. Unlike office-hour commuters who prioritize speed, customers traveling at night are more focused on reaching home safely and are therefore willing to wait slightly longer for a ride.
+
+As a result, the impact of ETA on cancellations is less severe outside peak commuting hours.
+
+## Root Cause
+
+The evidence consistently points to a single root cause:
+
+**Driver supply is unable to keep pace with customer demand during peak hours.**
+
+This creates a chain reaction:
+
+Demand Surge → Driver Shortage → Higher ETA → Unassigned Rides → Customer Cancellations → Lower Fulfillment Rate
+
+## Key Business Takeaway
+
+The fulfillment challenge is fundamentally a **supply-side problem**, not a demand-side problem.
+
+To improve fulfillment rates, the business should focus on increasing driver availability during peak commute hours, reducing ETA, and minimizing the number of rides that remain unassigned.
+
+Addressing the supply gap during these critical periods represents the largest opportunity to reduce cancellations and improve the overall customer experience.
+
 ## Insights
 - ### Insight 1
 - ### Inisght 2
