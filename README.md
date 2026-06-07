@@ -20,7 +20,7 @@ These are the key metrics which would drive fulfillment of rides
 
 ### Outcome of North Star Metrics
 - **rides_cancelled_client** & **rides_cancelled_system**
-  A downward trend increases the fulfillment ⬆️
-  An upward trend decreases the fulfillment 🔻
+  - A downward trend increases the fulfillment ⬆️
+  - An upward trend decreases the fulfillment 🔻
 
 
