@@ -7,9 +7,10 @@ Frequent ride cancellations were leading to revenue loss, reduced customer trust
 
 ## Table of Contents 
 - [North Star Metrics](#north-star-metrics)
-- Data Cleaning
-- Inisghts
-- Recommendations
+- [Executive Summary](#executive-summary-why-are-rides-being-cancelled)
+- [Inisghts](#executive-summary-why-are-rides-being-cancelled)
+- [Recommendations](#recomendations)
+- [Impact](#impact)
 
 ## North Star Metrics
 These are the key metrics which would drive fulfillment of rides
